@@ -4,6 +4,15 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>alexleslie.qualtricslibrary</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Alex Leslie</Authors>
+    <Product>Qualtrics Class Library</Product>
+    <Description>Class library to interact with Qualtrics API</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/alexleslieb/QualtricsLibrary</PackageProjectUrl>
+    <PackageTags>Qualtrics;Library</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
